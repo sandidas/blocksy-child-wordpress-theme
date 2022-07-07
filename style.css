@@ -1,0 +1,14 @@
+/**
+ * Theme Name: Blocksy Child
+ * Description: Blocksy Child theme
+ * Author: Creative Themes
+ * Template: blocksy
+ * Text Domain: blocksy
+ */
+
+/* ELEMENTOR LIST ICON BUG FIX */
+.elementor-icon-list-items .elementor-icon-list-icon {
+  position: absolute;
+  top: 7px;
+  left: -10px;
+}
